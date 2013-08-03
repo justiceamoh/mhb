@@ -4,39 +4,32 @@
 
 import sqlite3, glob, os
 
-# conn =sqlite3.connect("mhb.db")
-# cursor = conn.cursor()
+database =sqlite3.connect("mhb.db")
+cursor = database.cursor()
 
 #creating a table
-# cursor.execute("""CREATE TABLE a (mhb integer, title text, author text, hymn text)""")
+cursor.execute("""CREATE TABLE a 
+	(mhb integer, title text, author text, hymn text)""")
 
 os.chdir("data")
-for files in glob.glob("*.mhb"):
-	with open(files) as f:
+for ifile in glob.glob("*.mhb"):
+	with open(ifile) as f:
 		url=f.readline().rstrip('\n')
 		title=f.readline().rstrip('\n')
 		author=f.readline().rstrip('\n')
 		dump=f.readline()
 		hymn=f.read()
 
-	print url
-	print title
-	print hymn
-	print "\n\n\n"
-# with open ('datafile') as f:
-#     data=f.read()
-
-# sql = "INSERT INTO a VALUES (511, 'Begone Unbelief', 'John Newton', '?')" 
-
-# cursor.execute(sql,[buffer(data)])
-# conn.commit()
+		sql = "INSERT INTO a VALUES (?, ?, ?, ?)" 
+		values = [ifile.rstrip('.mhb'),title,author,buffer(hymn)]
+ 		cursor.execute(sql,values)
 
 
+# query: display all of table a
+# cursor.execute("select * from a")
+# for row in cursor:
+#     print row 		
 
-
-
-# import glob
-# import os
-# os.chdir("/mydir")
-# for files in glob.glob("*.txt"):
-#     print files
+#save updates and close database
+database.commit()
+database.close()
