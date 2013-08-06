@@ -17,19 +17,25 @@ cursor.execute("""CREATE TABLE a
 
 os.chdir("data")
 for ifile in glob.glob("*.mhb"):
-	with codecs.open(ifile,"r","ISO-8859-2") as f:
+	with codecs.open(ifile,"r","utf-8") as f:
 		ifile=ifile.rstrip('.mhb')
 		url=f.readline().rstrip('\n')
 		title=f.readline().rstrip('\n')
 		author=f.readline().rstrip('\n')
-		dump=f.readline()
-		hymn=f.read()
+		dump=f.readline()		
+
+		#TODO temporary hack to read all of code
+		lyrics=''
+		temp=f.read()
+		while(temp!=''):
+			hymn+=temp
+			temp=f.read()
 
 		# sql = "INSERT INTO a VALUES (?, ?, ?, ?)" 
 		# values = [ifile.rstrip('.mhb'),title,author,url]
 
-		sql = "INSERT INTO a VALUES (?, ?, ?, ?, ?)" 
-		values = [ifile, title, buffer(author), url, buffer(hymn)]
+		sql = "INSERT INTO hymns VALUES (?, ?, ?, ?, ?)" 
+		values = [ifile, title, author, url, hymn]
  		cursor.execute(sql,values)
 
 
