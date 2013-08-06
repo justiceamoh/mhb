@@ -10,9 +10,15 @@ cursor = database.cursor()
 
 
 #creating a table
-cursor.execute('drop table if exists a')
-cursor.execute("""CREATE TABLE a 
-	(mhb integer primary key, title text, author text, url text, hymn text)""")
+cursor.execute('drop table if exists hymns')
+cursor.execute("""CREATE TABLE hymns 
+	(_id integer primary key, title text, author text, url text, lyrics text)""")
+
+#Sqlite Adjustments for use in android
+cursor.execute('drop table if exists android_metadata')
+cursor.execute("""CREATE TABLE "android_metadata" 
+	("locale" TEXT DEFAULT 'en_US')""") 
+cursor.execute("INSERT INTO android_metadata VALUES ('en_US')")
 
 
 os.chdir("data")
@@ -28,14 +34,14 @@ for ifile in glob.glob("*.mhb"):
 		lyrics=''
 		temp=f.read()
 		while(temp!=''):
-			hymn+=temp
+			lyrics+=temp
 			temp=f.read()
 
 		# sql = "INSERT INTO a VALUES (?, ?, ?, ?)" 
 		# values = [ifile.rstrip('.mhb'),title,author,url]
 
 		sql = "INSERT INTO hymns VALUES (?, ?, ?, ?, ?)" 
-		values = [ifile, title, author, url, hymn]
+		values = [ifile, title, author, url, lyrics]
  		cursor.execute(sql,values)
 
 
