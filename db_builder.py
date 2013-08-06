@@ -3,21 +3,21 @@
 # Description: Script to build sqlite3 database out of hymn files (.mhb)
 
 
-import sqlite3, glob, os, sys
+import sqlite3, glob, codecs, os, sys
 
 database =sqlite3.connect("mhb.db")
 cursor = database.cursor()
 
-hymn='mic test one two, one two'
 
 #creating a table
 cursor.execute('drop table if exists a')
 cursor.execute("""CREATE TABLE a 
 	(mhb integer primary key, title text, author text, url text, hymn text)""")
 
+
 os.chdir("data")
 for ifile in glob.glob("*.mhb"):
-	with open(ifile) as f:
+	with codecs.open(ifile,"r","ISO-8859-2") as f:
 		ifile=ifile.rstrip('.mhb')
 		url=f.readline().rstrip('\n')
 		title=f.readline().rstrip('\n')
