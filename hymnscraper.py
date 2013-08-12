@@ -16,37 +16,24 @@ def make_soup(url):
     return BeautifulSoup(html)
 
 
-def get_titles():
-    global entries
-    global count
-    n = 0
-    title = []
-    for hymn in entries.findAll('a'):
-        n += 1
+def get_titles(entries):
+    n = 0  
+    titles = []
+    errList = []        #records position of titles with errors
+    for hymn in entries.findAll('a'):        
         if hymn.string == None:
-            count = n
-            continue
-        title.append(hymn.string)    
-    titles= []
-    for i in range(len(title)):
-        titles.append(title[i])        
-    return titles
+            errList.append(n)
+            titles.append('__')            
+        else:            
+            titles.append(hymn.string)
+        n += 1        
+    return (titles, errList)
 
 
-def get_urls():
-    global entries
-    global count
-    n = 0    
-    url = [] 
-    for hymn in entries.findAll('a'):
-        n+=1
-        if n == count:
-            continue
-        url.append(hymn.get('href'))
-    newUrl = []
-    for i in url[:]:
-        newUrl.append(BASE_URL+i[3:])
-    return newUrl
+def get_urls(entries):    
+    url = [BASE_URL + hymn.get('href')[3:] for hymn in entries.findAll('a')]
+##    url = [BASE_URL+i[3:] for i in url]    
+    return url
 
     
 def get_lyrics(url):
@@ -69,23 +56,24 @@ def handler():
     lines = f.readlines()
 
     lyrics = []             # holds the lyrics of each hymn
-    titles = []           # list contain the title each hymn
+    titles = []             # list contain the title each hymn
     urls = []
-    authors = []
-    global entries,count
-    count = 0
-    for line in lines:
+    authors = []    
+    errors = []
+    for line in lines:        
         soup = make_soup(line.rstrip())
         entries = soup.find("div","single-entry")
-        titles.append(get_titles()) ##whn writing to file encode as ascii
-        urls.append(get_urls())
-        count = 0
-##    lyrics.append([get_lyrics(x) for x in urls[-1][:2]])
-    return (titles,urls)#,lyrics,author)
+        (T,errCount) = get_titles(entries) 
+        titles.append(T)
+        urls.append(get_urls(entries))
+        errors.append(errCount)
+##        lyrics.append([get_lyrics(x) for x in urls[-1][:2]])
+    return (titles,urls,errors)#,author)
     
    # return str(lyrics[0].encode('utf8').decode('ascii','ignore'))
 
-(titles,urls) = handler()
+(titles,urls,errors) = handler()
+##whn writing to file encode as ascii
 
 f = open('titles.txt','w')
 h = open('titleUrls.txt','w')
@@ -101,8 +89,7 @@ for i in titles:
     j += 1
     k=0
 
-f.fush()
+f.flush()
 f.close()
-h.flush
+h.flush()
 h.close()
-
