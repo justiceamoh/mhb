@@ -31,25 +31,9 @@ def get_titles(entries):
 
 
 def get_urls(entries):    
-    url = [BASE_URL + hymn.get('href')[3:] for hymn in entries.findAll('a')]
-##    url = [BASE_URL+i[3:] for i in url]    
+    url = [BASE_URL + hymn.get('href')[3:] for hymn in entries.findAll('a')]   
     return url
-
-    
-def get_lyrics(url):
-    soup = make_soup(url)
-    lyrics = soup.find('div','lyrics')
-    s = ""
-    for i in lyrics.strings:
-        if i[:1] != '\r':
-            s +='\n'
-        s += i
-    lyrics = s[2:]
-    return lyrics
-
-##def get_authors(url):
-    
-    
+ 
 
 def handler():    
     f = open(URLS_FILE)
@@ -67,14 +51,12 @@ def handler():
         titles.append(T)
         urls.append(get_urls(entries))
         errors.append(errCount)
-##        lyrics.append([get_lyrics(x) for x in urls[-1][:2]])
-    return (titles,urls,errors)#,author)
-    
-   # return str(lyrics[0].encode('utf8').decode('ascii','ignore'))
+    return (titles,urls,errors)
+
 
 (titles,urls,errors) = handler()
-##whn writing to file encode as ascii
 
+whn writing to file encode as ascii
 f = open('titles.txt','w')
 h = open('titleUrls.txt','w')
 j=k=0
