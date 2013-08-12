@@ -3999,6 +3999,7 @@ http://cyberhymnal.org/htm/m/i/g/might2svt.htm
 http://cyberhymnal.org/htm/m/i/n/mindfohf.htm
 http://cyberhymnal.org/htm/m/i/n/mineeyes.htm
 http://cyberhymnal.org/htm/b/h/bhymnotr.htm
+http://cyberhymnal.org/htm/o/u/r/ouryouth.htm
 http://cyberhymnal.org/htm/m/e/l/meltmoun.htm
 http://cyberhymnal.org/htm/m/i/minemine.htm
 http://cyberhymnal.org/htm/m/i/s/miss_cry.htm
@@ -5537,6 +5538,7 @@ http://cyberhymnal.org/htm/r/e/rejoicey.htm
 http://cyberhymnal.org/htm/r/e/j/rejoice.htm
 http://cyberhymnal.org/htm/r/e/j/rejoicey.htm
 http://cyberhymnal.org/htm/t/r/i/trimlamp.htm
+http://cyberhymnal.org/htm/i/n/t/intodots.htm
 http://cyberhymnal.org/htm/r/e/l/religion.htm
 http://cyberhymnal.org/htm/r/e/rememall.htm
 http://cyberhymnal.org/htm/r/e/remember.htm
@@ -6564,6 +6566,7 @@ http://cyberhymnal.org/htm/w/i/l/wilhface.htm
 http://cyberhymnal.org/htm/w/e/s/wesstksd.htm
 http://cyberhymnal.org/htm/t/h/o/thotroub.htm
 http://cyberhymnal.org/htm/h/a/r/harkhica.htm
+http://cyberhymnal.org/htm/t/h/thoyours.htm
 http://cyberhymnal.org/htm/t/h/o/thoughtg.htm
 http://cyberhymnal.org/htm/t/h/o/thordivi.htm
 http://cyberhymnal.org/htm/t/t/thousand.htm

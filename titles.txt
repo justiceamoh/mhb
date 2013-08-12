@@ -3999,6 +3999,7 @@ Mighty to Save (Tood)
 Mindful of Our Human Frailty
 Mine Eyes and My Desire
 Mine Eyes Have Seen the Glory
+__
 Mine Eyes Look Toward the Mountains
 Mine, Still Mine
 Missionary Cry, A
@@ -5537,6 +5538,7 @@ Rejoice Ye People, Homage Give
 Rejoice, Ye Pure in Heart
 Rejoice, Ye Righteous, in the Lord
 Rejoice, Ye Saints! the Time Draws Near
+__
 Religion Is the Chief Concern
 Remember All the People
 Remember Christ, Our Savior
@@ -6564,6 +6566,7 @@ Though the Road May Be Rough Where He Leads Me
 Though the Way We Journey May Be Often Drear
 Though Troubles assail Us
 Though Young in Years, We Are All Taught
+__
 Thought of God, The
 Thousand Oracles Divine, A
 Thousand Years Have Come and Gone, A
