@@ -22,7 +22,7 @@ def get_category_hymns(category_url):
 
     title = [hymn.string for hymn in entries.findAll("a")]
     title = [x.lower() for x in title]
-    title = [x.tramslate(maketrans("",""), punctuation) for x in title]
+    title = [x.translate(maketrans("",""), punctuation) for x in title]
 
     url = [BASE_URL + hymn.get('href') for hymn in entries.findAll("a")]
     url = [hymn.split('../')[0] + hymn.split('../')[1] for hymn in url]

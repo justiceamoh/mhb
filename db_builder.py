@@ -11,7 +11,7 @@ cursor = database.cursor()
 
 #creating a table
 cursor.execute('drop table if exists hymns')
-cursor.execute("""CREATE TABLE hymns 
+cursor.execute("""CREATE VIRTUAL TABLE hymns USING fts3
 	(_id integer primary key, title text, author text, url text, lyrics text)""")
 
 #Sqlite Adjustments for use in android
