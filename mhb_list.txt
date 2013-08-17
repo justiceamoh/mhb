@@ -174,8 +174,8 @@
 669 Dear lord and father of mankind
 163 Dear master, in whose life I see
 556 Deepen the wound Thy hands have made
-34 Deepen the wound Thy hands have made
-258  Depth of mercy! can there be
+34  Deepen the wound Thy hands have made
+258 Depth of mercy! can there be
 580 Dismiss me not thy service, lord
 788 Disposer supreme, and judge of the earth
 345 Drawn to the cross which thou hast blessed
@@ -241,184 +241,269 @@
 635 From every stormy wind that blows
 30  From glory to gory advancing 
 801 From greenland’s icy mountains
-From the eastern mountains
-From thee all skill and science flow
-From trials unexmpted
-Gentle jesus, meek and mild
-Give heed, my heart, lift up thine yes
-Give me the enlarged desire
-Give me the faith which can remove
-Give me the wings of faith to rise
-Give to the winds thy fears   part 2
-Gladd was my heart to bear
-Glorious things of thee are spoken
-Glory be to God on high
-Glory to thee, my God, this night
-Go, labour on; spend, and be spent
-Go not, my soul, in search of him
-Go to dark gethsemane
-God be in my ead
-God be with you till we meet again
-God bless our native land
-God from on high hath heard
-God has given us a book full of stories
-God is a name my soul adores
-God is ascend up on high
-God is gone up on high
-God is love; his mercy brightens
-God is the refuge of his saints
-God is weith us, god is with us
-God is working his purpose out
-God love the world of sinners lost
-God make my life a little light
-God moves in a mysterious way
-God my father, loving me
-God of all power, an truth, and grace
-God of all-redeeming grace
-God of almighty love
-God of mercy, god of grace
-God of my life, through all my days
-God of my salvation, hear
-God of our fathers, known of old
-God of ou r father, unto thee god of pity, god of grace
-God of the living, in whose eyes
-God of unexampled grace
-God reveals his presence
-God save our gracious queen
-God all-terrible! King, who ordained
-God the father, be thou near
-God’s trumpet wakes the slumbering world
-Good Christian men, rejoice
-Good thou art, and good thou dost
-Gracious spirit, dwell with me 
-Gracious spirit, holy ghost
-Grant me my sings to feel
-Granted is the savior;’s prayer
-Great god, indulge my humble claim
-Great god of wonders I all thy ways
-Great is our redeeming lord
-Great is the lord our god
-Guide me, o thou great Jehovah
-Hail, gladdening light, of is pure glory poured
-Hail! Holy, holy, holy lord
-Hail she that sees him rise
-Hail,
-Happy the man that finds the grace
-Happy the souls to jesus joined
-Hark! Hark, my soul! Angelic songs are swelling
-Hark, how the watchmen cy
-Hark, my soul! It is the lord
-Hark the glad sound! The savior comes
-Hark! The gospel news is sounding
-Hark! The herald-angels sing
-Hark! The sound of jubilee
-Hark! The sound of holy voices
-Hark, ‘tis the   watchman’s cry
-Hark what a sound, and too divine for hearing
-He dies! The friend of sinners dies
-He that is down needs fear no fall
-He  wants not friends that hath thy love
-Head of thy church triumphant
-Head of thy church, whose spirit fills
-Heal us, Immanuel; hear our prayer
-Hear thou my prayer, o lord
-Hear us, o lord, from heaven, thy dwelling-place
-Heavenly father, thou hast brought us
-Help us to help each other, lord
-Hear, lord we offer thee all that is fairest
-Hear, o my lord, I see thee face to face
-Hight in the heavens, eternal god
-Hills of the north, rejoice
-Holy, and true, and righteous lord
-Holy father, in thymercy
-Holy ghost, my comforter
-Holy, holy, holy, lord god almighty
-Holy lamb, who thee confess
-Holy spirit, hear us
-Holy spririt pity me
-Holy spirit, truth divine
-Hosanna, loud hosanna
-How beauteous are their feet
-How blessed, from the bonds of sin 
-How blest is life if lived for thee
-How can a sinner know
-How do thy mercies close me round
-How happy are they
-How happy ever child of grace
-How pleasant, how divinely fair
-How shall a sinner find
-How shall I sing that majesty
-Hows shall I thank thee for the grace
-How seet the name of jesus ounds
-Hushed was the evening hymn
-I am no skilled to understand
-I am not worthy, holy lord
-I am so glad that our fater in heaven
-I am thine, o lord; I have heard thy voice
-I am trusting thee, lord jesus
-I bind unto myself to-day
-I bless the Christ of god
-I bow in silence at thy feet 
-I bring my sins to thee
-I cannot tell why he, whom angels worship
-I could no do without thee
-I dared not hope that thout wouldst deign to come
-I give my heart to thee
-I have no help but thine		part 2
-I hear thy welcome voice
-I heard the voice of jesus say
-I hoped that with the brave and strong
-I hanger and thirst
-I know that my redeemer lives, and ever
-I know that my redeemer lives,  what joy
-I lift my heart to thee
-I love to hear the story 
-I love to think, though I am young
-I met the good shepherd
-I need thee every hour
-I sing the almighty power of god
-I the good fight have fought
-I thank thee, uncreated sun
-I think, when I read that sweet story of old
-I to the hills will lift min eyes
-I vow to thee, my country
-I want a principle within
-I want the spirit of power within
-I will accept his offer now
-I will nog let thee go, thou help in time of need
-I will sing the wondrous story
-I would commune with thee, my god
-I wrestle not now, but trample on sin
-I’ll praise my make while I’ve breath
-I’m no ashamed to own my lord
-Imortal, invisible, god only wise
-Imoortal love, for ver full
-In age and feebleness extreme
-In all my vas concerns with thee
-Infull and glad surrender
-In heavenly love abiding
-In loving-kindness jesus came
-In memory of the savior’s love
-In our dear lord’s garden in our work and in our play
-In the bleak mid-winter
-In the cross of Christ I glory
-In the name of jesus
-Infinite god, to thee we raise
-It came upon the midnight clear
-If fell upon a summer day
-It is a thing most wonderful
-It passeth knowledge, that dear love of thine
-I’ve found a friend; o such a friend
-Jerusalem, my happy home, name ever
-Jerusalem, my happy home, when shall
-Jerusalem the golden part 2
-Jesus, all-atoning lamb
-Jesus, be endless praise to thee		part 2
-Jesus calls us! O’er the tumult 
-Jesus Christ is risen to-day
-Jesus comes with all his grace
-Jesus, friend of little children
-
-
-
-
+133 From the eastern mountains
+921 From thee all skill and science flow
+476 From trials unexmpted
+542 Gentle jesus, meek and mild
+126 Give heed, my heart, lift up thine yes
+31  Give me the enlarged desire
+390 Give me the faith which can remove
+831 Give me the wings of faith to rise
+607 Give to the winds thy fears   part 2
+680 Gladd was my heart to bear
+706 Glorious things of thee are spoken
+134 Glory be to God on high
+943 Glory to thee, my God, this night
+589 Go, labour on; spend, and be spent
+281 Go not, my soul, in search of him
+194 Go to dark gethsemane
+405 God be in my ead
+914 God be with you till we meet again
+880 God bless our native land
+140 God from on high hath heard
+857 God has given us a book full of stories
+41  God is a name my soul adores
+220 God is ascend up on high
+219 God is gone up on high
+53  God is love; his mercy brightens
+705 God is the refuge of his saints
+252 God is weith us, god is with us
+812 God is working his purpose out
+337 God love the world of sinners lost
+845 God make my life a little light
+503 God moves in a mysterious way
+840 God my father, loving me
+562 God of all power, an truth, and grace
+565 God of all-redeeming grace
+595 God of almighty love
+681 God of mercy, god of grace
+429 God of my life, through all my days
+365 God of my salvation, hear
+889 God of our fathers, known of old
+887 God of ou r father, unto thee god of pity, god of grace
+682 God of the living, in whose eyes
+974 God of unexampled grace
+191 God reveals his presence
+31  God save our gracious queen
+879 God all-terrible! King, who ordained
+901 God the father, be thou near
+932 God’s trumpet wakes the slumbering world
+401 Good Christian men, rejoice
+143 Good thou art, and good thou dost
+59  Gracious spirit, dwell with me 
+291 Gracious spirit, holy ghost
+19  Grant me my sings to feel
+277 Granted is the savior;’s prayer
+389 Great god, indulge my humble claim
+356 Great god of wonders I all thy ways
+699 Great is our redeeming lord
+676 Great is the lord our god
+615 Guide me, o thou great Jehovah
+937 Hail, gladdening light, of is pure glory poured
+37  Hail! Holy, holy, holy lord
+991 Hail she that sees him rise
+996 Hail,
+360 Happy the man that finds the grace
+818 Happy the souls to jesus joined
+651 Hark! Hark, my soul! Angelic songs are swelling
+481 Hark, how the watchmen cy
+12  Hark, my soul! It is the lord
+316 Hark the glad sound! The savior comes
+117 Hark! The gospel news is sounding
+829 Hark! The herald-angels sing
+820 Hark! The sound of jubilee
+482 Hark! The sound of holy voices
+264 Hark, ‘tis the   watchman’s cry
+135 Hark what a sound, and too divine for hearing
+514 He dies! The friend of sinners dies
+714 He that is down needs fear no fall
+411 He  wants not friends that hath thy love
+814 Head of thy church triumphant
+155 Head of thy church, whose spirit fills
+543 Heal us, Immanuel; hear our prayer
+970 Hear thou my prayer, o lord
+817 Hear us, o lord, from heaven, thy dwelling-place
+717 Heavenly father, thou hast brought us
+972 Help us to help each other, lord
+772 Hear, lord we offer thee all that is fairest
+48  Hear, o my lord, I see thee face to face
+815 Hight in the heavens, eternal god
+570 Hills of the north, rejoice
+916 Holy, and true, and righteous lord
+287 Holy father, in thymercy
+36  Holy ghost, my comforter
+598 Holy, holy, holy, lord god almighty
+286 Holy lamb, who thee confess
+296 Holy spirit, hear us
+288 Holy spririt pity me
+836 Holy spirit, truth divine
+778 Hosanna, loud hosanna
+583 How beauteous are their feet
+404 How blessed, from the bonds of sin 
+377 How blest is life if lived for thee
+877 How can a sinner know
+407 How do thy mercies close me round
+627 How happy are they
+711 How happy ever child of grace
+203 How pleasant, how divinely fair
+78  How shall a sinner find
+28  How shall I sing that majesty
+99  Hows shall I thank thee for the grace
+848 How seet the name of jesus ounds
+381 Hushed was the evening hymn
+758 I am no skilled to understand
+421 I am not worthy, holy lord
+746 I am so glad that our fater in heaven
+521 I am thine, o lord; I have heard thy voice
+392 I am trusting thee, lord jesus
+112 I bind unto myself to-day
+287 I bless the Christ of god
+520 I bow in silence at thy feet 
+809 I bring my sins to thee
+522 I cannot tell why he, whom angels worship
+623 I could no do without thee
+303 I dared not hope that thout wouldst deign to come
+772 I give my heart to thee
+381 I have no help but thine		part 2
+154 I hear thy welcome voice
+692 I heard the voice of jesus say
+462 I hoped that with the brave and strong
+666 I hanger and thirst
+0   I know that my redeemer lives, and ever
+451 I know that my redeemer lives,  what joy
+856 I lift my heart to thee
+855 I love to hear the story 
+174 I love to think, though I am young
+475 I met the good shepherd
+46  I need thee every hour
+492 I sing the almighty power of god
+9   I the good fight have fought
+865 I thank thee, uncreated sun
+625 I think, when I read that sweet story of old
+900 I to the hills will lift min eyes
+626 I vow to thee, my country
+280 I want a principle within
+26  I want the spirit of power within
+523 I will accept his offer now
+380 I will nog let thee go, thou help in time of need
+454 I will sing the wondrous story
+41  I would commune with thee, my god
+428 I wrestle not now, but trample on sin
+485 I’ll praise my make while I’ve breath
+34  I’m no ashamed to own my lord
+102 Imortal, invisible, god only wise
+47  Imoortal love, for ver full
+57  In age and feebleness extreme
+567 In all my vas concerns with thee
+528 Infull and glad surrender
+336 In heavenly love abiding
+762 In loving-kindness jesus came
+843 In memory of the savior’s love
+871 In our dear lord’s garden in our work and in our play
+137 In the bleak mid-winter
+183 In the cross of Christ I glory
+249 In the name of jesus
+33  Infinite god, to thee we raise
+130 It came upon the midnight clear
+166 If fell upon a summer day
+854 It is a thing most wonderful
+436 It passeth knowledge, that dear love of thine
+423 I’ve found a friend; o such a friend
+650 Jerusalem, my happy home, name ever
+655 Jerusalem, my happy home, when shall
+652 Jerusalem the golden part 2
+552 Jesus, all-atoning lamb
+370 Jesus, be endless praise to thee		part 2
+157 Jesus calls us! O’er the tumult 
+205 Jesus Christ is risen to-day
+87  Jesus comes with all his grace
+841 Jesus, friend of little children
+374 Jesus hath died and hath risen again
+560 Jesus hath died that I might live
+838 Jesus, high in  glory
+385 Jesus, I 
+171 Jesus, I will trust thee
+849 Jesus, if still the same thou art
+785 Jesus, if we aright confess
+357 Jesus, in whome the weary find
+199 Jesus, keep me near the cross
+603 Jesus, let all thy lovers shine
+216 Jesus lives! Thy terrors now
+724 Jesus, lord of life and glory
+110 Jesus, lover of my soul
+734 Jesus, meek an gentle
+20  Jesus, might to renew 
+438 Jesus, my lord, my God, my all
+476 Jesus, my savior, brother, friend
+542 Jesus, my strength, my hope
+635 Jesus, my truth, my way
+618 Jesus, precious treasure
+0   Jesus! Redeemer, savior lord
+272 Jesus shall reign where’er the sun
+684 Jesus, stand among us 
+624 Jesus, still lead on
+95  Jesus, sun and shield art thou
+733 Jesus, sun of righteousness 
+844 Jesus, tender shepherd, hear me
+464 Jesus, the all-restoring word
+243 Jesus, the conqueror, reigns
+105 Jesus, the first and the last
+605 Jesus, the gift divine I know
+621 Jesus the good shepherd is
+92  Jesus! The name high over all
+344 Jesus, the sinner’s friend to thee
+106 Jesus! The ver thought is sweet
+108 Jesus, the very thought of thee
+248 Jesus, the word bestow
+111 Jesus, thee eyes have never seen
+109 Jesus, thou joy of loving hearts
+670 Jesus, tho soul of all joys
+534 Jesus, thou sovering lord of all
+370 Jesus, thy blood and righesness
+430 Jesus, thy boundless love to me
+153 Jesus, thy far-extented fame
+791 Jesus, thy wanering sheep behold
+737 Jesus, to thee our hearts we lift
+233 Jesus, to thee we fly
+770 Jesus, to thy table led
+721 Jesus, untied by thy grace
+718 Jesus, we look to thee
+275 Jesus, we on the word depend
+761 Jesus, we thus obery
+675 Jesus, wehere’er thy peole meet 
+146 Jesus, who lived above the sky
+727 Jesus, with thy church abide
+96  Join all the glorious names
+960 Join, all ye ransomed sons of grace
+883 Judge eternal throned in splendour
+394 Just as I am, thine own to be
+353 Just as I am, without one plea
+23  King of glory, king of peace
+891 King of the city splendid
+843 Lamb of god, I took to thee       part 2
+181 Lamb of god, whose dying love 
+899 Land of our birth, we pledge to thee
+618 Lead, kindly light, amid the encircling gloom
+611 Lead us, heavenly father, lead us
+613 Lead us, o father, in the paths of peace
+610 Leader of faithful souls, and guide
+504 Leve god to order all thy ways
+5   Let all the world in very corner sing
+114 Let aearth and heaven agree
+142 Let earth and heaven combine
+8   Let earth’s wide circle round 
+538 Let everlasting glories crwon
+342 Let him to whom we now belong
+806 Let the song go round the earth
+713 Let us join - ;tis god commands
+18  Let us with a gladsome mind 
+418 Life and light and joy are found
+0   Life of ages, richly poured
+0   Lift up your heads, ye gates of brass
+0   Lift up your heads, ye might gates
+0   Lift up your hearts to things above
+0   Lift up your hearts! We lift
+0   Light of light, enlighten me
+0   Light of the lonely pilgrim’s heart
+0   Light of the world, faint  …
+0   Light of the world, thy beams I bless
