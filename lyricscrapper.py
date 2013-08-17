@@ -1,7 +1,7 @@
 from urllib2 import urlopen
+from urllib2 import HTTPError
+from urllib2 import URLError
 from bs4 import BeautifulSoup
-
-BASE_URL = "http://cyberhymnal.org/"
 
 f = open('titleUrls.txt')
 h = open('titles.txt')
@@ -11,20 +11,24 @@ l = []
 url = []
 x=0
 for line in urlLines:
-    soup = BeautifulSoup(urlopen(line.rstrip()).read())
-    lyrics = soup.find('div','lyrics')
-    s = ""
-    if lyrics != None:
-        for i in lyrics.strings:
-            if i[:1] != '\r':
-                s +='\n'
-            s += i
-        lyrics = s[2:]
-    else:
-        lyrics = '__'
-    l.append(lyrics.encode('utf8').decode('ascii','ignore'))
-    
-
+    try:
+        soup = BeautifulSoup(urlopen(line.rstrip()).read())
+        lyrics = soup.find('div','lyrics')
+        s = ""
+        if lyrics != None:
+            for i in lyrics.strings: # i is one verse
+                if i == '\n':
+                    s +='\n'
+                s += i
+            lyrics = s[1:]
+        else:
+            lyrics = '__'
+        l.append(lyrics)
+    except HTTPError:
+        l.append('___No Lyrics found on site__')
+    except URLError:
+        l.append('Server is not resoponding; chk ur connection')
+        
 g = open('lyrics.txt','w')
 i=0
 for title in titleLines:
@@ -37,5 +41,3 @@ h.flush()
 f.close()
 g.close()
 h.close()
-
-        
