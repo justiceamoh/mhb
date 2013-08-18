@@ -88,11 +88,11 @@ def handler(resutlDict):
 authors, lyrics = handler(resultDict)
 
 
-for i in resultDict:
-    output = open('data/mock mhb/'+ str(i) + '.mhb', 'w')
+for i in range(len(resultDict)):
+    output = open('data/mock mhb/'+ str(resultDict.keys()[i]) + '.mhb', 'w')
     a = authors[i].encode('utf8').decode('ascii','ignore')
     l = lyrics[i].encode('utf8').decode('ascii','ignore')
-    output.write(resultDict[i][0]+ a +'\n' + l)
+    output.write(resultDict.values()[i][0]+ a +'\n' + l)
     output.flush()
     output.close()
 
@@ -103,17 +103,3 @@ m.clsoe()
 u.flush()
 u.close()
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
