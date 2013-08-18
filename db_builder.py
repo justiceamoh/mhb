@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Author: Justice Amoh
-# Description: Script to build sqlite3 database out of hymn files (.mhb)
+# Description: Script to build sqlite2 database out of hymn files (.mhb)
 
 
 import sqlite3, glob, codecs, os, sys
