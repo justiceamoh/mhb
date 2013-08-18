@@ -92,7 +92,7 @@ for i in range(len(resultDict)):
     output = open('data/mock mhb/'+ str(resultDict.keys()[i]) + '.mhb', 'w')
     a = authors[i].encode('utf8').decode('ascii','ignore')
     l = lyrics[i].encode('utf8').decode('ascii','ignore')
-    output.write(resultDict.values()[i][0]+ a +'\n' + l)
+    output.write(resultDict.values()[i][1]+resultDict.values()[i][0]+ a +'\n' + l)
     output.flush()
     output.close()
 
