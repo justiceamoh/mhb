@@ -62,7 +62,9 @@ for i in range(len(titles)):
 #compare titles to knw which ones tally
 for i in tie:
     if i[0].lower() in mhbList:
-        resultDict[hymnNos[mhbList.index(i[0].lower())]] = (i[0].lower().title(), i[1])
+        k = mhbList.index(i[0].lower())
+        resultDict[hymnNos[k]] = (i[0].lower().title(), i[1])        
+        mhbList[k] = '' #tracks titles with no errors
         ## the 0s are more than one! chk dat latter
 
 def handler(resutlDict):
