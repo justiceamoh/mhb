@@ -2,7 +2,7 @@ from urllib2 import urlopen
 from urllib2 import HTTPError
 from urllib2 import URLError
 from bs4 import BeautifulSoup
-from time import sleep
+# from time import sleep
 
 BASE_URL = "http://cyberhymnal.org/"
 
@@ -62,17 +62,18 @@ for i in range(len(titles)):
 #compare titles to knw which ones tally
 for i in tie:
     if i[0].lower() in mhbList:
-        resultDict[hymnNos[mhbList.index(i[0].lower())]] = (i[0].lower(), i[1])
+        resultDict[hymnNos[mhbList.index(i[0].lower())]] = (i[0].lower().title(), i[1])
         ## the 0s are more than one! chk dat latter
 
 def handler(resutlDict):
     urls = []
     lyrics = []
     authors = []
-    k=0
+    # k=0
     for i in resultDict.values():
         urls.append(i[1])
     for i in urls:
+        # if k<=2:
         try:
             soup = make_soup(i)
             lyrics.append(get_lyrics(soup))
@@ -83,6 +84,7 @@ def handler(resutlDict):
         except URLError:
             lyrics.append('Internet connection Error/n/n')
             authors.append(' ')
+            # k += 2
     return (authors,lyrics)
 
 authors, lyrics = handler(resultDict)
@@ -99,7 +101,6 @@ for i in range(len(resultDict)):
 t.flush()
 t.close()
 m.flush()
-m.clsoe()
+m.close()
 u.flush()
 u.close()
-    
