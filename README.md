@@ -31,9 +31,9 @@ folder containing all formatted mhb files.
 
 
 .mhb format:
-file name       = hymn mhb number
-first line      = hymn title
-second line     = hymn author
+first line      = hymn url
+second line     = hymn title
+third line      = hymn author
 remainder lines = hymn lyrics
 
 
