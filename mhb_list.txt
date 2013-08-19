@@ -70,7 +70,7 @@
 576 Be it my only wisdom here
 766 Be known to us in breaking breaed
 632 Be thou  my vision, or lord of my heart
-983 Be with us, gracious lord, to-day
+983 Be with us, gracious lord, today
 3   Before jehovah’s awful throne
 844 Before thy throne, o god, we kneel
 72  Begin, my soul, some heavenly theme
@@ -118,7 +118,7 @@
 210 Christ jesus lay in death’s strong bands
 89  Christ, of all my hopes the ground
 207 Christ the lord is risen again
-204 Christ the lord is risen to-day
+204 Christ the lord is risen today
 639 Christ, who knows all his sheep
 924 Christ, whose glory fills the skies
 491 Christian, seek not yet repose
@@ -301,12 +301,15 @@
 615 Guide me, o thou great Jehovah
 937 Hail, gladdening light, of is pure glory poured
 37  Hail! Holy, holy, holy lord
-991 Hail she that sees him rise
-996 Hail,
+221 Hail the day that sees him rise
+228 hail, thou once despised Jesus
+245 Hail to the Lord's Anointed
+419 Happy are they, they that love God
+441 Happy the heart where grace reign
 360 Happy the man that finds the grace
 818 Happy the souls to jesus joined
 651 Hark! Hark, my soul! Angelic songs are swelling
-481 Hark, how the watchmen cy
+481 Hark, how the watchmen cry
 12  Hark, my soul! It is the lord
 316 Hark the glad sound! The savior comes
 117 Hark! The gospel news is sounding
@@ -356,7 +359,7 @@
 746 I am so glad that our fater in heaven
 521 I am thine, o lord; I have heard thy voice
 392 I am trusting thee, lord jesus
-112 I bind unto myself to-day
+112 I bind unto myself today
 287 I bless the Christ of god
 520 I bow in silence at thy feet 
 809 I bring my sins to thee
@@ -415,7 +418,7 @@
 552 Jesus, all-atoning lamb
 370 Jesus, be endless praise to thee		part 2
 157 Jesus calls us! O’er the tumult 
-205 Jesus Christ is risen to-day
+205 Jesus Christ is risen today
 87  Jesus comes with all his grace
 841 Jesus, friend of little children
 374 Jesus hath died and hath risen again
@@ -495,7 +498,7 @@
 538 Let everlasting glories crwon
 342 Let him to whom we now belong
 806 Let the song go round the earth
-713 Let us join - ;tis god commands
+713 Let us join -'tis god commands
 18  Let us with a gladsome mind 
 418 Life and light and joy are found
 0   Life of ages, richly poured
@@ -570,7 +573,7 @@
 73  my god, how wonderful thou art
 406 my god, i am thine
 387 my god! i know, i feel thee mine
-446 my god, i love thee--not because
+446 my god, i love thee
 524 my god, i thank thee, who hast made
 536 my god, is any hour so sweet
 425 my god, my king
@@ -758,7 +761,7 @@
 973 rejoice for a brother deceased
 882 rejoice, o land in god thy might
 247 rejoice. the lord is king
-885 rejoice to-day with one accord
+885 rejoice today with one accord
 864 remember all the people
 29  remember, lord, my sins no more
 338 rescue the perishing, care for the dying
@@ -935,7 +938,7 @@
 49  thy ceaseless, unexhausted love
 311 thy faithfulness, lord, each moment we find
 811 thy kingdom come, o god
-742 thy kingdom come- on bended knee
+742 thy kingdom come, on bended knee
 391 thy life was given for me 
 515 thy way, not mine o lord
 15  tired with the greatness of my way
@@ -964,7 +967,7 @@
 677 we love the place, o god
 708 we love thy kingdom, lord
 963 we plough the fields, and scatter
-666 we rose to-day with anthems sweet
+666 we rose today with anthems sweet
 148 we saw thee not when thou didst come
 196 we sing the praise of him who died
 414 we thank thee, lord, for this fair earth
