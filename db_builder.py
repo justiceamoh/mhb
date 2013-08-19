@@ -1,35 +1,47 @@
 #!/usr/bin/python
 # Author: Justice Amoh
-# Description: Script to build sqlite3 database out of hymn files (.mhb)
+# Description: Script to build sqlite2 database out of hymn files (.mhb)
 
 
-import sqlite3, glob, os, sys
+import sqlite3, glob, codecs, os, sys
 
 database =sqlite3.connect("mhb.db")
 cursor = database.cursor()
 
-hymn='mic test one two, one two'
 
 #creating a table
-cursor.execute('drop table if exists a')
-cursor.execute("""CREATE TABLE a 
-	(mhb integer primary key, title text, author text, url text, hymn text)""")
+cursor.execute('drop table if exists hymns')
+cursor.execute("""CREATE VIRTUAL TABLE hymns USING fts3
+	(_id integer primary key, title text, author text, url text, lyrics text)""")
+
+#Sqlite Adjustments for use in android
+cursor.execute('drop table if exists android_metadata')
+cursor.execute("""CREATE TABLE "android_metadata" 
+	("locale" TEXT DEFAULT 'en_US')""") 
+cursor.execute("INSERT INTO android_metadata VALUES ('en_US')")
+
 
 os.chdir("data")
 for ifile in glob.glob("*.mhb"):
-	with open(ifile) as f:
+	with codecs.open(ifile,"r","utf-8") as f:
 		ifile=ifile.rstrip('.mhb')
 		url=f.readline().rstrip('\n')
 		title=f.readline().rstrip('\n')
 		author=f.readline().rstrip('\n')
-		dump=f.readline()
-		hymn=f.read()
+		dump=f.readline()		
+
+		#TODO temporary hack to read all of code
+		lyrics=''
+		temp=f.read()
+		while(temp!=''):
+			lyrics+=temp
+			temp=f.read()
 
 		# sql = "INSERT INTO a VALUES (?, ?, ?, ?)" 
 		# values = [ifile.rstrip('.mhb'),title,author,url]
 
-		sql = "INSERT INTO a VALUES (?, ?, ?, ?, ?)" 
-		values = [ifile, title, buffer(author), url, buffer(hymn)]
+		sql = "INSERT INTO hymns VALUES (?, ?, ?, ?, ?)" 
+		values = [ifile, title, author, url, lyrics]
  		cursor.execute(sql,values)
 
 
