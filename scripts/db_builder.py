@@ -5,7 +5,7 @@
 
 import sqlite3, glob, codecs, os, sys
 
-database =sqlite3.connect("../databases/mhb.db")
+database =sqlite3.connect("../db/mhb.db")
 cursor = database.cursor()
 
 
@@ -21,8 +21,8 @@ cursor.execute("""CREATE TABLE "android_metadata"
 cursor.execute("INSERT INTO android_metadata VALUES ('en_US')")
 
 
-os.chdir("data")
-for ifile in glob.glob("../*.mhb"):
+os.chdir("../data")
+for ifile in glob.glob("*.mhb"):
 	with codecs.open(ifile,"r","utf-8") as f:
 		ifile=ifile.rstrip('.mhb')
 		url=f.readline().rstrip('\n')
