@@ -35,13 +35,13 @@ def get_authors(soup):
 
 
 ##get titles
-t = open('titles.txt')
+t = open('../titles.txt')
 titles = t.readlines()
 ## get the titles' urls
-u = open('titleUrls.txt')
+u = open('../titleUrls.txt')
 urls = u.readlines()
 ## get the hymnos and urls
-m = open('mhb_list.txt')
+m = open('../mhb_list.txt')
 m1 = m.readlines()
 
 tie = []        # this list ties up each titles&urls
@@ -93,7 +93,7 @@ authors, lyrics = handler(resultDict)
 
 
 for i in range(len(resultDict)):
-    output = open('data/mock mhb/'+ str(resultDict.keys()[i]) + '.mhb', 'w')
+    output = open('../data/'+ str(resultDict.keys()[i]) + '.mhb', 'w')
     a = authors[i].encode('utf8').decode('ascii','ignore')
     l = lyrics[i].encode('utf8').decode('ascii','ignore')
     output.write(resultDict.values()[i][1]+resultDict.values()[i][0]+ a +'\n' + l)

@@ -9,7 +9,7 @@ def url_list_gen():
 
     urls = ['http://cyberhymnal.org/ttl/ttl-'+str(i)+'.htm' for i in alphabet]
 
-    f = open('url_list.txt','w')
+    f = open('../url_list.txt','w')
     for i in urls:
         f.write(i+'\n')
 

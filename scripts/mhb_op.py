@@ -1,7 +1,7 @@
 from string import rstrip
 
-new_mhb = open('mhb_list.txt','a')  ## remember to change to 'a'
-old = open('list.txt')
+new_mhb = open('../mhb_list.txt','a')  ## remember to change to 'a'
+old = open('../list.txt')
 lines = old.readlines()
 mhb = []
 for line in lines:

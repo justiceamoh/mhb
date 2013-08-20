@@ -1,12 +1,12 @@
 from time import sleep
 
 ##get titles
-t = open('titles.txt')
-t1 = open('titles1.txt')
+t = open('../titles.txt')
+t1 = open('../titles1.txt')
 titles = t.readlines()
 titles1 = t1.readlines()
 ## get the hymnos and urls
-m = open('mhb_list.txt')
+m = open('../mhb_list.txt')
 m1 = m.readlines()
 
 title = []       # this list ties up each titles&urls

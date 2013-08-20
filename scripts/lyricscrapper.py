@@ -3,8 +3,8 @@ from urllib2 import HTTPError
 from urllib2 import URLError
 from bs4 import BeautifulSoup
 
-f = open('titleUrls.txt')
-h = open('titles.txt')
+f = open('../titleUrls.txt')
+h = open('../titles.txt')
 urlLines = f.readlines()
 titleLines = h.readlines()
 l = []
@@ -29,7 +29,7 @@ for line in urlLines:
     except URLError:
         l.append('Server is not resoponding; chk ur connection')
         
-g = open('lyrics.txt','w')
+g = open('../lyrics.txt','w')
 i=0
 for title in titleLines:
         g.write(title + l[i]+'\n\n')

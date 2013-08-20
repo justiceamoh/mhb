@@ -8,7 +8,7 @@ from string import maketrans
 from string import punctuation
 
 BASE_URL = "http://cyberhymnal.org/"
-URLS_FILE = "url_list.txt"
+URLS_FILE = "../url_list.txt"
 
 hymnGlobal = ""
 def make_soup(url):
@@ -81,7 +81,7 @@ def handler():
 (titles,urls,lyrics,errors) = handler()
 
 ##whn writing to file encode as ascii
-f = open('titles.txt','w')
+f = open('../titles.txt','w')
 ##h = open('titleUrls.txt','w')
 j=k=0
 ##y=""
