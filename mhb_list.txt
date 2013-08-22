@@ -89,7 +89,7 @@
 571 Blessed are the pure in heart 
 422 Blessed assurance, jesus is mine
 732 Blessed Jesus, here we stand
-697 Blest are the humbe souls that see
+697 Blest are the humble souls that see
 950 Blest are the pure in heart
 712 Blest be the dear uniting love
 769 Bread of heaven, on thee I feed
@@ -105,16 +105,16 @@
 43  Build us in one body up
 773 By Christ redeemed, in Christ restored
 704 By the holy hills surrounded
-608 Captain of israel’s host, and guide
+608 Captain of israel's host, and guide
 837 Children of Jerusalem
 696 Children of the heaven king
 225 Christ above all glory seated
-805 Christ for the world, we sing
+805 Christ for the world we sing
 720 Christ, from whom all blessings flow
 702 Christ is our corner-stone
-206 Christ is risen ! hallelujah !
+206 Christ is risen! hallelujah!
 981 Christ is the foundation
-210 Christ jesus lay in death’s strong bands
+210 Christ jesus lay in death's strong bands
 89  Christ, of all my hopes the ground
 207 Christ the lord is risen again
 204 Christ the lord is risen today
@@ -149,15 +149,15 @@
 20  Come, o come, in pious lays
 539 Come, o my god, the promise seal
 347 Come, o thou all-victurious lord
-339 Come, o thou traveler unkown
+339 Come, o thou traveler unknown
 340 Come, o thou traveler unkown(short version)
 487 Come on, my partners in distress
 546 Come, savior, jesus, from above
 323 Come, sinners, to the gospel feast
 765 Come, thou everlasting spirit
-417 Come, thou fount of ever blessing
+417 Come, thou fount of every blessing
 242 Come, thou long-expected jesus
-297 Come tour poor nature’s night
+297 Come tour poor nature's night
 328 Come unto me, ye weary
 324 Come, ye sinners, pour and wretched 
 962 Come, ye thankful people, come
@@ -165,7 +165,7 @@
 607 Commit thou all thy griefs
 227 Conquering prince and lord of glory
 127 Cradled in a manger, meanly
-293 Creator spirit; by whose aid
+293 Creator spirit, by whose aid
 271 Crown him with many crowns
 367 Day after day I sought the lord
 867 Day by day we magnify thee
