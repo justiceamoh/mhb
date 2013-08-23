@@ -12,7 +12,6 @@
 852 All things which live below the sky
 3   And will this sovereign King
 508 An helpless as a a child who clings
-214 Awake, awake glad soul
 510 Away my needless fears
 231 Away with gloom, away with doubt
 278 Away with our fears, our troubles
@@ -34,7 +33,6 @@
 704 By the holy hills surrounded
 702 Christ is our corner-stone
 981 Christ is the foundation
-204 Christ the lord is risen today
 639 Christ, who knows all his sheep
 606 Come, all whoe’er have set
 294 Come, holy celestial dove
@@ -44,123 +42,93 @@
 472 Come in, o come ! the door stands open now
 22  Come, let us all unite and sing
 956 Come, let us anew
-314 Come let us sing of a wonderful
 661 Come, let us with our lord arise
 20  Come, o come, in pious lays
 539 Come, o my god, the promise seal
 340 Come, o thou traveler unkown(short version)
-328 Come unto me, ye weary
 324 Come, ye sinners, pour and wretched 
 410 Come,ye that love the lord
 227 Conquering prince and lord of glory
 867 Day by day we magnify thee
-646 Say of wrath! O day of mourning
 163 Dear master, in whose life I see
 556 Deepen the wound Thy hands have made
 34  Deepen the wound Thy hands have made
-258 Depth of mercy! can there be
-345 Drawn to the cross which thou hast blessed
 968 Earth below is teeming
 246 Earth, rejoice, our lord is king
 232 Entered the holy place above
-947 Ere I sleep, for ever favour
-544 Eternal light! ethernal light
-6   Eternal power! whose high abode
 472 Fainting soul, be bold, be strong 
 24  Faith, might faith, the promise sees
-402 Faith of our fathers, living still
+402 
 440 Far off we need not rove
 798 Far round the world thy children sing their song
 935 Father divine, I come to thee
 564 Father, I dare believe
-602 Father, in know that all my life
+602 
 284 Father, if justly still we claim
 810 Father, let thy kingdom come
 304 Father of al, in whom alone
 47  Father of all! whose powerful voice
-38  Father of heaven, whose love profound 
-561 Father jesus Christ, my lord
-574 Father, son, and holy ghost
-167 Fierce raged the tempest o’er the deep
-604 Fill thou my life, o lord my god
-817 Fling out the banner, let it float
-832 For all the saints who from their labours rest
-456 For ever here my rest shall be
-658 For ever with the lord
 11  For souls redeemed, for sins forgiven
 715 For the unight of thine arm we bless thee
 16  For you and for me
 789 Forget them not, o Christ, who stand
-390 Forth in thy name, o lord, I go
+390 
 819 Forth rode the knights of old
-619 Foraward! be our watchword
+619 
 733 … of the borne, as when in Galilee
-635 From every stormy wind that blows
-30  From glory to gory advancing 
-801 From greenland’s icy mountains
 476 From trials unexmpted
-126 Give heed, my heart, lift up thine yes
-831 Give me the wings of faith to rise
-607 Give to the winds thy fears   part 2
 680 Gladd was my heart to bear
-134 Glory be to God on high
+134 
 943 Glory to thee, my God, this night
-589 Go, labour on; spend, and be spent
 281 Go not, my soul, in search of him
-405 God be in my ead
 857 God has given us a book full of stories
-41  God is a name my soul adores
 220 God is ascend up on high
-252 God is weith us, god is with us
-337 God love the world of sinners lost
 840 God my father, loving me
-562 God of all power, an truth, and grace
 565 God of all-redeeming grace
 365 God of my salvation, hear
-887 God of ou r father, unto thee god of pity, god of grace
 974 God of unexampled grace
 31  God save our gracious queen
 879 God all-terrible! King, who ordained
 901 God the father, be thou near
-932 God’s trumpet wakes the slumbering world
+932 
 19  Grant me my sings to feel
 277 Granted is the savior;’s prayer
-356 Great god of wonders I all thy ways
+356 
 699 Great is our redeeming lord
-937 Hail, gladdening light, of is pure glory poured
+937 
 37  Hail! Holy, holy, holy lord
-245 Hail to the Lord's Anointed
+245 
 441 Happy the heart where grace reign
-651 Hark! Hark, my soul! Angelic songs are swelling
+651 
 12  Hark, my soul! It is the lord
-316 Hark the glad sound! The savior comes
+316 
 117 Hark! The gospel news is sounding
-829 Hark! The herald-angels sing
-820 Hark! The sound of jubilee
-264 Hark, ‘tis the   watchman’s cry
-135 Hark what a sound, and too divine for hearing
-514 He dies! The friend of sinners dies
+829 
+820 
+264 
+135 
+514 
 714 He that is down needs fear no fall
-411 He  wants not friends that hath thy love
-543 Heal us, Immanuel; hear our prayer
+411 
+543 
 970 Hear thou my prayer, o lord
-817 Hear us, o lord, from heaven, thy dwelling-place
+817 
 717 Heavenly father, thou hast brought us
 972 Help us to help each other, lord
-772 Hear, lord we offer thee all that is fairest
-48  Hear, o my lord, I see thee face to face
-815 Hight in the heavens, eternal god
-287 Holy father, in thymercy
-598 Holy, holy, holy, lord god almighty
+772 
+48  
+815 
+287 
+598 
 296 Holy spirit, hear us
 288 Holy spririt pity me
 377 How blest is life if lived for thee
 877 How can a sinner know
 407 How do thy mercies close me round
-711 How happy ever child of grace
+711 
 78  How shall a sinner find
 99  Hows shall I thank thee for the grace
-848 How seet the name of jesus ounds
+848 
 758 I am no skilled to understand
 746 I am so glad that our fater in heaven
 521 I am thine, o lord; I have heard thy voice
@@ -367,7 +335,7 @@
 932 o splendour of god's glory bright
 48  o that each in the day
 33  o that the perfect grace were given
-10  o that the world might taste and see
+10  o that i might taste and see
 922 o thou before whose presence
 505 o thou to whose all-searching sight
 156 o thou, whom once they flocked to hear

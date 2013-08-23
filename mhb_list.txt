@@ -56,7 +56,7 @@
 362 Author of faith, eternal word
 764 Author of life divine
 588 Awake, awake to love and work
-214 Awake, awake glad soul
+214 awake glad soul, awake, awake!
 931 Awake, my soul, and with the sun
 418 Awake, our souls, Away, our fears
 860 Away in a manger
@@ -139,7 +139,7 @@
 956 Come, let us anew
 85  Come, let us join our cheerful songs
 824 Come, let us join our friends above
-314 Come let us sing of a wonderful
+314 Come let us sing of a wonderful love
 342 Come, let us to the lord our god
 749 Come, let us use the grace divine
 333 Come let us, who in Christ believe
@@ -169,7 +169,7 @@
 271 Crown him with many crowns
 367 Day after day I sought the lord
 867 Day by day we magnify thee
-646 Say of wrath! O day of mourning
+646 day of wrath, O day of mourning
 669 Dear lord and father of mankind
 163 Dear master, in whose life I see
 556 Deepen the wound Thy hands have made
@@ -188,7 +188,7 @@
 63  Eternal depth of love divine
 917 Eternal father, strong to save
 544 Eternal light! ethernal light
-6   Eternal power! whose high abode
+6   Eternal power, whose high abode
 892 Eternal ruler of the ceaseless round
 794 Eternal son, eternal love
 378 Eternal sun of righteousness
@@ -199,7 +199,7 @@
 798 Far round the world thy children sing their song
 935 Father divine, I come to thee
 564 Father, I dare believe
-602 Father, in know that all my life
+602 Father, i know that all my life
 284 Father, if justly still we claim
 938 Father, in high heaven dwelling 
 38  Father, in whom we live
@@ -214,11 +214,11 @@
 561 Father jesus Christ, my lord
 982 Father of men, in whom are one 
 302 Father of mercies, in thy word
-574 Father, son, and holy ghost
+574 Father, son and holy ghost
 915 Father, who art alone
 894 Father, who on man dost shower
 75  Father, whose everlasting love
-167 Fierce raged the tempest o’er the deep
+167 Fierce raged the tempest o'er the deep
 490 Fight the good fight with all thy might
 604 Fill thou my life, o lord my god
 817 Fling out the banner, let it float
@@ -234,12 +234,12 @@
 390 Forth in thy name, o lord, I go
 819 Forth rode the knights of old
 165 Forty days and forty nights
-619 Foraward! be our watchword
+619 Forward! be our watchword
 733 … of the borne, as when in Galilee
 4   From all that dwell below the skies
 635 From every stormy wind that blows
-30  From glory to gory advancing 
-801 From greenland’s icy mountains
+30  From glory to glory advancing 
+801 From greenland's icy mountains
 133 From the eastern mountains
 921 From thee all skill and science flow
 476 From trials unexmpted
@@ -248,15 +248,15 @@
 31  Give me the enlarged desire
 390 Give me the faith which can remove
 831 Give me the wings of faith to rise
-607 Give to the winds thy fears   part 2
+507 Give to the winds thy fears   part 2
 680 Gladd was my heart to bear
 706 Glorious things of thee are spoken
 134 Glory be to God on high
 943 Glory to thee, my God, this night
-589 Go, labour on; spend, and be spent
+589 Go, labour on: spend, and be spent
 281 Go not, my soul, in search of him
 194 Go to dark gethsemane
-405 God be in my ead
+405 God be in my head
 914 God be with you till we meet again
 880 God bless our native land
 140 God from on high hath heard
@@ -266,7 +266,7 @@
 219 God is gone up on high
 53  God is love; his mercy brightens
 705 God is the refuge of his saints
-252 God is weith us, god is with us
+252 God is with us, god is with us
 812 God is working his purpose out
 337 God love the world of sinners lost
 845 God make my life a little light
@@ -279,14 +279,15 @@
 429 God of my life, through all my days
 365 God of my salvation, hear
 889 God of our fathers, known of old
-887 God of ou r father, unto thee god of pity, god of grace
+887 God of our fathers, unto thee
+882 god of pity, god of grace
 682 God of the living, in whose eyes
 974 God of unexampled grace
 191 God reveals his presence
 31  God save our gracious queen
 879 God all-terrible! King, who ordained
 901 God the father, be thou near
-932 God’s trumpet wakes the slumbering world
+932 God's trumpet wakes the slumbering world
 401 Good Christian men, rejoice
 143 Good thou art, and good thou dost
 59  Gracious spirit, dwell with me 
@@ -313,26 +314,26 @@
 316 Hark the glad sound! The savior comes
 117 Hark! The gospel news is sounding
 829 Hark! The herald-angels sing
-820 Hark! The sound of jubilee
+820 Hark! The song of jubilee
 482 Hark! The sound of holy voices
-264 Hark, ‘tis the   watchman’s cry
+264 Hark, 'tis the watchman's cry
 135 Hark what a sound, and too divine for hearing
 514 He dies! The friend of sinners dies
 714 He that is down needs fear no fall
-411 He  wants not friends that hath thy love
+411 He wants not friends that hath thy love
 814 Head of thy church triumphant
 155 Head of thy church, whose spirit fills
-543 Heal us, Immanuel; hear our prayer
+543 Heal us, Immanuel, hear our prayer
 970 Hear thou my prayer, o lord
 817 Hear us, o lord, from heaven, thy dwelling-place
 717 Heavenly father, thou hast brought us
 972 Help us to help each other, lord
-772 Hear, lord we offer thee all that is fairest
-48  Hear, o my lord, I see thee face to face
-815 Hight in the heavens, eternal god
+772 Here, lord we offer thee all that is fairest
+48  Here, o my lord, I see thee face to face
+815 High in the heavens, eternal god
 570 Hills of the north, rejoice
 916 Holy, and true, and righteous lord
-287 Holy father, in thymercy
+287 Holy father, in thy mercy
 36  Holy ghost, my comforter
 598 Holy, holy, holy, lord god almighty
 286 Holy lamb, who thee confess
@@ -346,12 +347,12 @@
 877 How can a sinner know
 407 How do thy mercies close me round
 627 How happy are they
-711 How happy ever child of grace
+711 How happy every child of grace
 203 How pleasant, how divinely fair
 78  How shall a sinner find
 28  How shall I sing that majesty
 99  Hows shall I thank thee for the grace
-848 How seet the name of jesus ounds
+848 How sweet the name of jesus sounds
 381 Hushed was the evening hymn
 758 I am no skilled to understand
 421 I am not worthy, holy lord
