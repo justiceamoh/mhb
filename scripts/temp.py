@@ -62,5 +62,5 @@ a = authors.encode('utf8').decode('ascii','ignore')
 l = lyrics.encode('utf8').decode('ascii','ignore')
 output.write(url+'\n'+title.title()+'\n'+ a +'\n' + l)
 
-output.flush()
+output.flush
 output.close()
