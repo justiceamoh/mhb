@@ -43,8 +43,8 @@ def get_authors(soup):
     author = author.split(',',1)[0]
     return author
 
-url = 'http://cyberhymnal.org/htm/g/b/g/gbgohigh.htm'
-title = 'Glory be to God on high'.lower()
+url = 'http://cyberhymnal.org/htm/i/m/imotslov.htm'
+title = 'In memory of the savior\'s love'.lower()
 try:
     soup = make_soup(url)
     lyrics = get_lyrics(soup)
