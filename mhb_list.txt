@@ -70,7 +70,7 @@
 766 Be known to us in breaking breaed
 632 Be thou  my vision, or lord of my heart
 983 Be with us, gracious lord, today
-3   Before jehovah’s awful throne
+3   Before jehovahâ€™s awful throne
 844 Before thy throne, o god, we kneel
 72  Begin, my soul, some heavenly theme
 511 Begone, unbelief; my savior is near
@@ -100,7 +100,7 @@
 710 Brethren in Christ, and well beloved
 652 Brief life is here our portion
 122 Brightest and best of the sons of the morning
-582 Brightly beams our father’s mercy
+582 Brightly beams our fatherâ€™s mercy
 617 Brightly gleams our banner
 43  Build us in one body up
 773 By Christ redeemed, in Christ restored
@@ -123,7 +123,7 @@
 491 Christian, seek not yet repose
 120 Christians, awake, salute the happy morn
 703 City of god, how broad and far
-606 Come, all whoe’er have set
+606 Come, all whoeâ€™er have set
 748 Come, and let us sweetly join
 306 Come, divine interpreter
 273 Come down, o love divine
@@ -235,7 +235,7 @@
 819 Forth rode the knights of old
 165 Forty days and forty nights
 619 Forward! be our watchword
-733 … of the borne, as when in Galilee
+733 â€¦ of the borne, as when in Galilee
 4   From all that dwell below the skies
 635 From every stormy wind that blows
 30  From glory to glory advancing 
@@ -293,7 +293,7 @@
 59  Gracious spirit, dwell with me 
 291 Gracious spirit, holy ghost
 19  Grant me my sings to feel
-277 Granted is the savior;’s prayer
+277 Granted is the savior;â€™s prayer
 389 Great god, indulge my humble claim
 356 Great god of wonders I all thy ways
 699 Great is our redeeming lord
@@ -354,17 +354,17 @@
 99  Hows shall I thank thee for the grace
 848 How sweet the name of jesus sounds
 381 Hushed was the evening hymn
-758 I am no skilled to understand
+758 I am not skilled to understand
 421 I am not worthy, holy lord
-746 I am so glad that our fater in heaven
+746 I am so glad that our father in heaven
 521 I am thine, o lord; I have heard thy voice
 392 I am trusting thee, lord jesus
 112 I bind unto myself today
 287 I bless the Christ of god
 520 I bow in silence at thy feet 
 809 I bring my sins to thee
-522 I cannot tell why he, whom angels worship
-623 I could no do without thee
+522 I cannot tell why the, whom angels worship
+623 I could not do without thee
 303 I dared not hope that thout wouldst deign to come
 772 I give my heart to thee
 381 I have no help but thine		part 2
@@ -372,7 +372,7 @@
 692 I heard the voice of jesus say
 462 I hoped that with the brave and strong
 666 I hanger and thirst
-0   I know that my redeemer lives, and ever
+565 I know that my redeemer lives, and ever
 451 I know that my redeemer lives,  what joy
 856 I lift my heart to thee
 855 I love to hear the story 
@@ -392,8 +392,8 @@
 454 I will sing the wondrous story
 41  I would commune with thee, my god
 428 I wrestle not now, but trample on sin
-485 I’ll praise my make while I’ve breath
-34  I’m no ashamed to own my lord
+485 Iâ€™ll praise my make while Iâ€™ve breath
+34  Iâ€™m no ashamed to own my lord
 102 Imortal, invisible, god only wise
 47  Imoortal love, for ver full
 57  In age and feebleness extreme
@@ -401,8 +401,8 @@
 528 Infull and glad surrender
 336 In heavenly love abiding
 762 In loving-kindness jesus came
-843 In memory of the savior’s love
-871 In our dear lord’s garden in our work and in our play
+843 In memory of the savior's love
+871 In our dear lordâ€™s garden in our work and in our play
 137 In the bleak mid-winter
 183 In the cross of Christ I glory
 249 In the name of jesus
@@ -411,13 +411,13 @@
 166 If fell upon a summer day
 854 It is a thing most wonderful
 436 It passeth knowledge, that dear love of thine
-423 I’ve found a friend; o such a friend
+423 Iâ€™ve found a friend; o such a friend
 650 Jerusalem, my happy home, name ever
 655 Jerusalem, my happy home, when shall
 652 Jerusalem the golden part 2
 552 Jesus, all-atoning lamb
 370 Jesus, be endless praise to thee		part 2
-157 Jesus calls us! O’er the tumult 
+157 Jesus calls us! Oâ€™er the tumult 
 205 Jesus Christ is risen today
 87  Jesus comes with all his grace
 841 Jesus, friend of little children
@@ -441,8 +441,8 @@
 542 Jesus, my strength, my hope
 635 Jesus, my truth, my way
 618 Jesus, precious treasure
-0   Jesus! Redeemer, savior lord
-272 Jesus shall reign where’er the sun
+366 Jesus! Redeemer, savior lord
+272 Jesus shall reign whereâ€™er the sun
 684 Jesus, stand among us 
 624 Jesus, still lead on
 95  Jesus, sun and shield art thou
@@ -454,7 +454,7 @@
 605 Jesus, the gift divine I know
 621 Jesus the good shepherd is
 92  Jesus! The name high over all
-344 Jesus, the sinner’s friend to thee
+344 Jesus, the sinnerâ€™s friend to thee
 106 Jesus! The ver thought is sweet
 108 Jesus, the very thought of thee
 248 Jesus, the word bestow
@@ -473,7 +473,7 @@
 718 Jesus, we look to thee
 275 Jesus, we on the word depend
 761 Jesus, we thus obery
-675 Jesus, wehere’er thy peole meet 
+675 Jesus, wehereâ€™er thy peole meet 
 146 Jesus, who lived above the sky
 727 Jesus, with thy church abide
 96  Join all the glorious names
@@ -494,7 +494,7 @@
 5   Let all the world in very corner sing
 114 Let aearth and heaven agree
 142 Let earth and heaven combine
-8   Let earth’s wide circle round 
+8   Let earthâ€™s wide circle round 
 538 Let everlasting glories crwon
 342 Let him to whom we now belong
 806 Let the song go round the earth
@@ -503,13 +503,13 @@
 418 Life and light and joy are found
 0   Life of ages, richly poured
 0   Lift up your heads, ye gates of brass
-0   Lift up your heads, ye might gates
+890 Lift up your heads, ye might gates
 0   Lift up your hearts to things above
 0   Lift up your hearts! We lift
 0   Light of light, enlighten me
-0   Light of the lonely pilgrim’s heart
-0   Light of the world, faint  …
-0   Light of the world, thy beams I bless
+268 Light of the lonely pilgrimâ€™s heart
+636 Light of the world, faint were our weary feet
+531 Light of the world, thy beams I bless
 261 light of those whose dreary dwelling
 683 lo, god is here! let us adore
 264 lo! he comes with clouds descending
@@ -517,7 +517,7 @@
 790 look from thy sphere of endless day
 226 look ye saints! the sight is glorious
 850 looking upward every day
-868 lord and saviour, true and kind
+868 lord and savior, true and kindr
 512 lord, as to thy dear cross we flee
 870 lord, behold us with thy blessing. Part 1
 906 lord christ, when first thou cam'st to men
@@ -583,8 +583,8 @@
 270 my heart is full of christ, and longs
 473 my heart is resting, o my god
 437 my jesus, i love thee, i know thou art mine
-388 my saviour! how shall i proclaim
-169 my saviour, thou thy love to me
+388 my savior! how shall i proclaim
+169 my savior, thou thy love to me
 144 my song is love unknown
 21  my soul don't delay
 45  my soul, praise the lord
@@ -686,13 +686,13 @@
 447 o love, who formeth me to wear
 377 o loving lord, who art for ever seeking
 600 o master, let me walk with thee
-433 o my saviour, hear me
+433 o my savior, hear me
 190 o perfect life o love
 777 o perfect love, all human thought transcending
 202 o sacred head once wounded
 499 o safe to the rock that is higher than i
-692 o saviour, bless us ere we go
-439 o saviour, i have nought to plead
+692 o savior, bless us ere we go
+439 o savior, i have nought to plead
 241 o son of man, our hero strong and tender
 932 o splendour of god's glory bright
 48  o that each in the day
@@ -706,7 +706,7 @@
 156 o thou, whom once they flocked to hear
 984 o thou whose hand hath brought us
 927 o timely happy, timely wise
-420 o what shall i do my saviour to praise
+420 o what shall i do my savior to praise
 303 o word of god incarnate
 240 o word of pity, for our pardon pleading
 8   o worship the king
@@ -716,8 +716,8 @@
 593 o'er the harvest reaped or lost
 83  of the father's love begotten
 530 oft i in my heart have said
-0   oft in danger, oft in woe
-0   omnipotent lord, my saviour and king
+488 oft in danger, oft in woe
+   omnipotent lord, my savior and king
 251 omnipotent redeemer
 876 omnipotent god, whose aid
 301 on all the earth thy spirit shower
@@ -738,7 +738,7 @@
 223 our lord is risen from the dead
 932 our mind be in his keeping placed. part 2
 359 out of the depths i cry to thee
-335 pass me not, o gentle saviour
+335 pass me not, o gentle savior
 500 peace, doubting heart! my god's i am
 501 peace, perfect peace, in this dark world of sin
 672 pleasant are thy courts above
@@ -776,17 +776,17 @@
 25  round the lord in glory seated
 977 safe home, safe home in port
 260 salvation! o the joyful sound
-691 saviour, again to thy dear name we raise
-760 saviour, and can it be
-672 saviour, blessed saviour
-658 saviour, from sin, i wilt to prove
-608 saviour, like a sherpherd lead us
-348 saviour, prince of israel's race
-0   saviour, quicken many nations
-576 saviour, thy dying love 
-0   saviour, we know thou art
-0   saviour, whom in ... just to thee
-395 saviour, while my heart is tender
+691 savior, again to thy dear name we raise
+760 savior, and can it be
+672 savior, blessed savior
+658 savior, from sin, i wilt to prove
+608 savior, like a sherpherd lead us
+348 savior, prince of israel's race
+800 savior, quicken many nations
+576 savior, thy dying love 
+269 savior, we know thou art
+726 savior, when in dust to thee
+395 savior, while my heart is tender
 35  scatter the last remains of sin
 124 see, amid the winter's snow
 263 see how great a flame aspires 
@@ -812,7 +812,7 @@
 477 son of god, if thy free grace
 318 souls of men, why will ye scatter
 599 sow in the morn thy seed
-808 speed thy servants, saviour, speed them
+808 speed thy servants, savior, speed them
 295 spirit blest, who art adored
 289 spirit divine, attend our prayers
 363 spirit of faith, come down
@@ -831,7 +831,7 @@
 86  strong son of god, immortal love
 135 stupendous height of heavenly love
 673 summer suns are glowing
-642 sun of my soul, thou saviour dear
+642 sun of my soul, thou savior dear
 640 sunset and evening star
 483 surrounded by a host of foes
 56  sweet is the memory of thy grace
@@ -895,7 +895,7 @@
 80  thee will i praise with all my heart
 827 their names are names of kings
 46  then let us attend
-17  there for for me the saviour stands
+17  there for for me the savior stands
 43  there is a book, who runs may read
 201 there is a fountain filled with blood
 180 there is a green hill far away
@@ -912,7 +912,7 @@
 49  this blessed word be mine
 660 this is the day of light
 69  this, this is the god we adore
-258 thou art coming, o my saviour
+258 thou art coming, o my savior
 2   thou art my god, and thee i prais
 162 thou art my life; if thou but turn away
 160 thou art the way: to thee alone
@@ -933,7 +933,7 @@
 21  though nature's strength decare. part 2
 189 throned upon the awful tree
 427 through all the changing scenes of life
-525 through the love of god our saviour
+525 through the love of god our savior
 616 through the night of doubt and sorrow
 49  thy ceaseless, unexhausted love
 311 thy faithfulness, lord, each moment we find
@@ -982,7 +982,7 @@
 152 what means this eager, anxious throng
 897 what service shall we render thee
 77  what shall i do my god to love, my loving
-452 what shall i do my god to love, my saviour
+452 what shall i do my god to love, my savior
 28  what shall i do to keep
 399 what shall i render to my god
 784 what shall we offer our good lord
@@ -995,7 +995,7 @@
 113 when morning gilds the skies
 866 when mothers of salem
 178 when my love to christ grows weak
-555 when, my saviour, shall i be
+555 when, my savior, shall i be
 642 when on my day of life the night is falling
 978 when our heads are bowed with woe
 310 when quiet in my house i sit
