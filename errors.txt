@@ -1,9 +1,8 @@
-578 A charge to keep I have
 971 A gladsome hymn of praise we sing
 853 A little child may know
 494 A safe stronghold our God is still
 45  A spark of ethereal fire
-128 A virgin amost pure, as the prophets do tell
+128 A virgin most pure, as the prophets do tell
 698 Abide among us with Thy grace
 480 Ah! Lord, with trembling I confess
 262 All thanks be to God
@@ -111,6 +110,7 @@
 381 I have no help but thine		part 2
 462 I hoped that with the brave and strong
 451 I know that my redeemer lives,  what joy
+565 I know that my redeemer lives, and ever
 856 I lift my heart to thee -- author
 174 I love to think, though I am young
 492 I sing the almighty power of god  -- mighty?
@@ -141,7 +141,7 @@
 734 Jesus, meek an gentle
 20  Jesus, might to renew 
 618 Jesus, precious treasure
-0   Jesus! Redeemer, savior lord
+366 Jesus! Redeemer, savior lord
 733 Jesus, sun of righteousness 
 105 Jesus, the first and the last
 605 Jesus, the gift divine I know
@@ -166,7 +166,11 @@
 713 Let us join -'tis god commands
 418 Life and light and joy are found
 0   Lift up your hearts
-0   Light of the world, thy beams I bless
+
+890 Lift up your heads, ye might gates
+268 Light of the lonely pilgrim’s heart
+531 Light of the world, thy beams I bless
+636 Light of the world, faint were our weary feet
 458 long did i toll, and knew no earthly rest
 870 lord, behold us with thy blessing. Part 1
 906 lord christ, when first thou cam'st to men
@@ -233,8 +237,7 @@
 893 o ye who taste the love is sweet
 90  object of my ... desire
 593 o'er the harvest reaped or lost
-530 oft i in my heart have said
-0   oft in danger, oft in woe
+488 oft in danger, oft in woe
 251 omnipotent redeemer
 876 omnipotent god, whose aid
 465 open, lord, my inward ear
@@ -255,9 +258,9 @@
 905 ring out, wild bells, to the wild sky
 906 ring out the grief that saps the mind
 658 savior, from sin, i wilt to prove
-0   savior, quicken many nations
-0   savior, we know thou art
-0   savior, whom in ... just to thee
+800 savior, quicken many nations
+269 savior, we know thou art
+726 savior, when in dust to thee
 35  scatter the last remains of sin
 124 see, amid the winter's snow
 622 show me the way, o lord
