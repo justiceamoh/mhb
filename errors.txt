@@ -1,6 +1,4 @@
-853 A little child may know
-45  A spark of ethereal fire
-698 Abide among us with Thy grace
+45  A spark of that ethereal fire
 480 Ah! Lord, with trembling I confess
 262 All thanks be to God
 747 All thanks to the Lamb
@@ -44,7 +42,6 @@
 340 Come, o thou traveler unkown(short version)
 324 Come, ye sinners, pour and wretched 
 410 Come,ye that love the lord
-227 Conquering prince and lord of glory
 867 Day by day we magnify thee
 163 Dear master, in whose life I see
 556 Deepen the wound Thy hands have made
@@ -78,7 +75,6 @@
 565 God of all-redeeming grace
 365 God of my salvation, hear
 974 God of unexampled grace
-31  God save our gracious queen
 879 God all-terrible! King, who ordained
 901 God the father, be thou near
 19  Grant me my sings to feel
@@ -95,7 +91,6 @@
 296 Holy spirit, hear us
 288 Holy spririt pity me
 377 How blest is life if lived for thee
-877 How can a sinner know
 407 How do thy mercies close me round
 78  How shall a sinner find
 99  Hows shall I thank thee for the grace
@@ -110,7 +105,6 @@
 174 I love to think, though I am young
 492 I sing the almighty power of god  -- mighty?
 865 I thank thee, uncreated sun
-26  I want the spirit of power within
 523 I will accept his offer now
 380 I will nog let thee go, thou help in time of need
 41  I would commune with thee, my god
@@ -125,7 +119,6 @@
 652 Jerusalem the golden part 2
 552 Jesus, all-atoning lamb
 370 Jesus, be endless praise to thee		part 2
-87  Jesus comes with all his grace
 374 Jesus hath died and hath risen again
 560 Jesus hath died that I might live
 385 Jesus, I 
@@ -210,7 +203,6 @@
 688 o god our father, who dost make us one
 826 o god, to whom the faithful dead
 573 o god, what offering shall i give
-744 o happy day that fixed my choice
 875 o happy home where thou art loved the dearest
 279 o holy spirit, god
 664 o how bless the hour, lord jesus
@@ -267,7 +259,6 @@
 123 still the night, holy the night
 135 stupendous height of heavenly love
 642 sun of my soul, thou savior dear
-640 sunset and evening star
 27  take my poor heart, and let it be
 25  that might faith on me bestow
 469 that mystic word of thine, o soverign lord
@@ -282,7 +273,6 @@
 5   the lord my righteousness i praise
 945 the night is come, whering at last we rest
 379 the people that in darkness lay
-307 the spirit breathes upon the word
 965 the spring again is here
 925 the star of morn has risen
 547 the thing my god doth hate
@@ -310,7 +300,6 @@
 15  tired with the greatness of my way
 40  'tis done! thou dost this moment save
 537 'tis not to ask for gifts alone
-459 to the haven of thy breast
 44  touched by the loadstone of thy love
 872 we bless thee, lord, for all this common life
 316 we have heard a joyful sound
