@@ -3,7 +3,16 @@
 # Description: Script to build sqlite2 database out of hymn files (.mhb)
 
 
-import sqlite3, glob, codecs, os, sys
+import sqlite3, glob, codecs, os, sys, re
+
+
+
+# Natural Order Sort Function 
+def natural_sort(l): 
+    convert = lambda text: int(text) if text.isdigit() else text.lower()
+    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
+    return sorted(l, key = alphanum_key)
+
 
 database =sqlite3.connect("../db/mhb.db")
 cursor = database.cursor()
@@ -22,13 +31,15 @@ cursor.execute("INSERT INTO android_metadata VALUES ('en_US')")
 
 
 os.chdir("../data")
-for ifile in glob.glob("*.mhb"):
+files = os.listdir(".")
+files = natural_sort(files) 
+for ifile in files:
 	with codecs.open(ifile,"r","utf-8") as f:
-		ifile=ifile.rstrip('.mhb')
+		ifile=int(ifile.rstrip('.mhb'))
 		url=f.readline().rstrip('\n')
 		title=f.readline().rstrip('\n')
 		author=f.readline().rstrip('\n')
-		dump=f.readline()		
+		dump=f.readline()	
 
 		#TODO temporary hack to read all of code
 		lyrics=''
